@@ -1,5 +1,7 @@
 🧠 Cost-Optimized LLM Router
 Benchmarking & Intelligent Routing Across Multiple LLMs
+To open in collab click below!
+https://colab.research.google.com/github/AshmitSharmaBitsP/Cost-Optimizer-and-Router/blob/main/Cost_opt_router.ipynb
 
 This project implements a cost-aware LLM routing system that dynamically selects the most cost-effective large language model for a given request while maintaining output quality.
 
